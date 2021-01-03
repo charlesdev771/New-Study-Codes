@@ -1,0 +1,10 @@
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\bin\Debug\chameleonPad.exe.config
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\bin\Debug\chameleonPad.exe
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\bin\Debug\chameleonPad.pdb
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.csprojAssemblyReference.cache
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.Form1.resources
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.Properties.Resources.resources
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.csproj.GenerateResource.cache
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.csproj.CoreCompileInputs.cache
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.exe
+C:\Users\20201041110028\Desktop\c\c#\chameleonPad\chameleonPad\obj\Debug\chameleonPad.pdb
