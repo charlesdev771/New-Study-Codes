@@ -1,0 +1,12 @@
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.exe
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.deps.json
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.runtimeconfig.json
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.runtimeconfig.dev.json
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.dll
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\bin\Debug\netcoreapp3.1\aulas3.pdb
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.AssemblyInfoInputs.cache
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.AssemblyInfo.cs
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.csproj.CoreCompileInputs.cache
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.dll
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.pdb
+C:\Users\20201041110028\Desktop\c\c#\aulas3\aulas3\obj\Debug\netcoreapp3.1\aulas3.genruntimeconfig.cache

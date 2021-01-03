@@ -1,0 +1,13 @@
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.exe
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.deps.json
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.runtimeconfig.json
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.runtimeconfig.dev.json
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.dll
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\bin\Debug\netcoreapp3.1\aulas2.pdb
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.csprojAssemblyReference.cache
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.AssemblyInfoInputs.cache
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.AssemblyInfo.cs
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.csproj.CoreCompileInputs.cache
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.dll
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.pdb
+C:\Users\20201041110028\Desktop\c\c#\aulas2\aulas2\obj\Debug\netcoreapp3.1\aulas2.genruntimeconfig.cache
